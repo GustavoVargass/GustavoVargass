@@ -71,5 +71,6 @@ I aim to explore the world, immerse myself in new cultures, and embrace global e
 
 ## 🔗 Where to Find Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-da-silva-vargas/)
+- 📨 [gustavo.svargas@outlook.com](gustavo.svargas@outlook.com)
 
 Let's connect and build amazing things together! 🚀
