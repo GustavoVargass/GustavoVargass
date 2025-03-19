@@ -66,10 +66,8 @@ I aim to explore the world, immerse myself in new cultures, and embrace global e
 - 🇫🇷 *French* – Intermediate 
 - 🇪🇸 *Spanish* – Advanced
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoVargass&show_icons=true&theme=dark)
-
 ## 🔗 Where to Find Me
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-da-silva-vargas/)
 - 📨 [gustavo.svargas@outlook.com](gustavo.svargas@outlook.com)
 
