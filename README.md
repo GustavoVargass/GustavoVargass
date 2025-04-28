@@ -56,7 +56,8 @@ I aim to explore the world, immerse myself in new cultures, and embrace global e
 
 ## 🐉 Curiosities
 - 🎮 **CEO of AXK** – I lead *AXK*, an inclusive and competitive eSports organization.  
-- 🔥 **Mascot** – Our symbol is a powerful dragon, representing strength, strategy, and resilience in gaming.  
+- 🔥 **Mascot** – Our symbol is a powerful dragon, representing strength, strategy, and resilience in gaming. 
+- 🚀 **Motto** - Rule the Skies
 - 🏆 **Competitive Scene** – We strive to build a strong team culture, promoting growth and excellence in eSports.  
 
 ## 🌎 Languages
