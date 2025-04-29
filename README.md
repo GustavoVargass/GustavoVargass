@@ -81,7 +81,7 @@ I aim to explore the world, immerse myself in new cultures, and embrace global e
 
 - 🗓️ **Years of Experience**: 7+  
 - 💼 **Main Stack**: C#, .NET, SQL Server, Azure  
-- 🏢 **Projects Delivered**: 40+ (Enterprise, Startups & Public Sector)  
+- 🏢 **Projects Delivered**: 30+ (Enterprise, Startups & Public Sector)  
 - 🔁 **Work Methodologies**: Agile 
 - 🌐 **Systems Integrated**: Government APIs, Educative Platforms, eCommerce, CRM/ERP 
 
