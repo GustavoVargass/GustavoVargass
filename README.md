@@ -10,8 +10,8 @@
 - 📌 **MBA in Business Management**  
 
 ## 🏆 Achievements
-- 🏅 *3x Champion & Global Nominee* – NASA International SpaceApps Challenge (Curitiba)
-- 🏅 *National Champion & Global Nominee* – CSA International SpaceApps Challenge
+- 🏅 *3x Champion & Global Nominee* – NASA International SpaceApps Challenge (Curitiba)  
+- 🏅 *National Champion & Global Nominee* – CSA International SpaceApps Challenge  
 
 ## 🎯 My Goals
 I aim to explore the world, immerse myself in new cultures, and embrace global experiences. Meeting people, understanding different perspectives, and evolving through travel are some of my greatest aspirations.  
@@ -19,7 +19,7 @@ I aim to explore the world, immerse myself in new cultures, and embrace global e
 ## 🔧 Technical Skills
 - 💻 **C# & .NET** – Expert in backend development with modern .NET technologies  
 - 🔍 **Software Architecture** – SOLID principles, clean code, and best practices  
-- 📊 **Data & AI** – Machine Learning, Artificial Intelligence, and data-driven solutions
+- 📊 **Data & AI** – Machine Learning, Artificial Intelligence, and data-driven solutions  
 
 ### 🖥️ Programming Languages & Frameworks
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -48,28 +48,43 @@ I aim to explore the world, immerse myself in new cultures, and embrace global e
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
+## 📊 Metrics & Stats
+
+- 🗓️ **Years of Experience**: 7+  
+- 💼 **Main Stack**: C#, .NET, SQL Server, Azure  
+- 🏢 **Projects Delivered**: 30+ (Enterprise, Startups & Public Sector)  
+- 🔁 **Work Methodologies**: Agile  
+- 🌐 **Systems Integrated**: Government APIs, Educative Platforms, eCommerce, CRM/ERP  
+
+## 🧭 Principles & Values
+
+- 🎯 **Excellence as a Standard** – Committed to delivering the best, with attention to detail, clean code, and clear solutions.  
+- 🤝 **Respect & Inclusion** – I value diverse, collaborative, and safe environments where everyone has a voice and space to grow.  
+- 🚀 **Purpose-Driven Ambition** – Always striving to go beyond limits, guided by meaningful goals and a long-term vision.  
+- 📚 **Lifelong Learning** – Naturally curious and constantly evolving — technically, personally, and culturally.  
+- 🧠 **Strategic Thinking** – I make decisions based on context, systems thinking, and real-world impact.  
+- 💡 **Practical Innovation** – I believe in applying creativity to solve problems in smart, efficient, and scalable ways.  
+- 🕹️ **Passion for What I Do** – Technology, games, people, and projects are more than work — they’re part of who I am.  
 
 ## 💙 Passions & Interests
 - ⚽ **Football & Sports** – A lifelong fan and active participant  
 - 🎮 **eSports & Gaming** – Passionate about competitive gaming and team dynamics  
-- 🖥️ **Technology & Innovation** – Always learning and experimenting with new trends
+- 🖥️ **Technology & Innovation** – Always learning and experimenting with new trends  
 
 ## 🐉 Curiosities
 - 🎮 **CEO of AXK** – I lead *AXK*, an inclusive and competitive eSports organization.  
-- 🔥 **Mascot** – Our symbol is a powerful dragon, representing strength, strategy, and resilience in gaming. 
-- 🚀 **Motto** - Rule the Skies
+- 🔥 **Mascot** – Our symbol is a powerful dragon, representing strength, strategy, and resilience in gaming.  
+- 🚀 **Motto** – *Rule the Skies*  
 - 🏆 **Competitive Scene** – We strive to build a strong team culture, promoting growth and excellence in eSports.  
 
 ## 🌎 Languages
-
-- 🇧🇷 *Portuguese* – Native
-- 🇺🇸 *English* – Advanced
-- 🇫🇷 *French* – Intermediate 
-- 🇪🇸 *Spanish* – Advanced
+- 🇧🇷 *Portuguese* – Native  
+- 🇺🇸 *English* – Advanced  
+- 🇫🇷 *French* – Intermediate  
+- 🇪🇸 *Spanish* – Advanced  
 
 ## 🔗 Where to Find Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-da-silva-vargas/)  
+- 📨 [gustavo.svargas@outlook.com](mailto:gustavo.svargas@outlook.com)  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-da-silva-vargas/)
-- 📨 [gustavo.svargas@outlook.com](gustavo.svargas@outlook.com)
-
-Let's connect and build amazing things together! 🚀
+Let’s connect and build amazing things together! 🚀
