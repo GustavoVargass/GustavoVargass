@@ -25,6 +25,9 @@ I aim to explore the world, immerse myself in new cultures, and embrace global e
 - 📌 **MBA in Business Management**  
 
 ## 🔧 Technical Skills
+- 💻 **C# & .NET** – Expert in backend development with modern .NET technologies  
+- 🔍 **Software Architecture** – SOLID principles, clean code, and best practices  
+- 📊 **Data & AI** – Machine Learning, Artificial Intelligence, and data-driven solutions  
 
 ### 🖥️ Programming Languages & Frameworks
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -53,12 +56,15 @@ I aim to explore the world, immerse myself in new cultures, and embrace global e
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 🧠 Principles & Values
-- 🔁 **Continuous Improvement** – Always learning and evolving  
-- 🎯 **Purpose-Driven Work** – I care about delivering meaningful, valuable solutions  
-- 🧠 **Knowledge Sharing** – Growth multiplies when shared  
-- 🤝 **Collaboration First** – The best results are built with people  
-- ⚖️ **Ethics in Tech** – I believe in tech that respects privacy, inclusion, and human values  
+## 🧭 Principles & Values
+
+- 🎯 **Excellence as a Standard** – Committed to delivering the best, with attention to detail, clean code, and clear solutions.  
+- 🤝 **Respect & Inclusion** – I value diverse, collaborative, and safe environments where everyone has a voice and space to grow.  
+- 🚀 **Purpose-Driven Ambition** – Always striving to go beyond limits, guided by meaningful goals and a long-term vision.  
+- 📚 **Lifelong Learning** – Naturally curious and constantly evolving — technically, personally, and culturally.  
+- 🧠 **Strategic Thinking** – I make decisions based on context, systems thinking, and real-world impact.  
+- 💡 **Practical Innovation** – I believe in applying creativity to solve problems in smart, efficient, and scalable ways.  
+- 🕹️ **Passion for What I Do** – Technology, games, people, and projects are more than work — they’re part of who I am.  
 
 ## 💙 Passions & Interests
 - ⚽ **Football & Sports** – A lifelong fan and active participant  
@@ -66,16 +72,18 @@ I aim to explore the world, immerse myself in new cultures, and embrace global e
 - 🖥️ **Technology & Innovation** – Always learning and experimenting with new trends  
 
 ## 🐉 Curiosities
-- 🎮 **CEO of AXK** – I lead *AXK*, an inclusive and competitive eSports organization  
-- 🔥 **Mascot** – Our symbol is a powerful dragon, representing strength, strategy, and resilience  
-- 🚀 **Motto** – Rule the Skies  
-- 🏆 **Competitive Scene** – We strive to build a strong team culture, promoting growth and excellence  
+- 🎮 **CEO of AXK** – I lead *AXK*, an inclusive and competitive eSports organization.  
+- 🔥 **Mascot** – Our symbol is a powerful dragon, representing strength, strategy, and resilience in gaming.  
+- 🚀 **Motto** – *Rule the Skies*  
+- 🏆 **Competitive Scene** – We strive to build a strong team culture, promoting growth and excellence in eSports.  
 
-## 📈 Metrics & Stats
-- ⌛ GitHub contributions over time  
-- 🧩 Projects in multiple stacks and architectures  
-- 🌍 Collaborations across teams and countries  
-<!-- You can embed GitHub Readme Stats or GitHub activity charts here -->
+## 📊 Metrics & Stats
+
+- 🗓️ **Years of Experience**: 7+  
+- 💼 **Main Stack**: C#, .NET, SQL Server, Azure  
+- 🏢 **Projects Delivered**: 40+ (Enterprise, Startups & Public Sector)  
+- 🔁 **Work Methodologies**: Agile 
+- 🌐 **Systems Integrated**: Government APIs, Educative Platforms, eCommerce, CRM/ERP 
 
 ## 🌎 Languages
 - 🇧🇷 *Portuguese* – Native  
