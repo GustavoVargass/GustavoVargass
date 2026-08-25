@@ -32,8 +32,7 @@ I aim to explore the world, immerse myself in new cultures, and embrace global e
 ### 🖥️ Programming Languages & Frameworks
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
 
 ### ⚙️ .NET Ecosystem & Architectures
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
